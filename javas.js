@@ -3,7 +3,7 @@ var books = [
   "Couac",
   "lune",
   "Palou",
-  "tarik",
+  "Tarik",
   "Waldo",
   "Windigo",
   "Homere_Odyssee"
