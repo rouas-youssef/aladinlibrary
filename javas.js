@@ -5,7 +5,7 @@ var books = [
   "Palou",
   "tarik",
   "Waldo",
-  "windigo",
+  "Windigo",
   "Homere_Odyssee"
 ];
 var liens = [
