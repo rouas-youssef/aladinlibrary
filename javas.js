@@ -23,7 +23,8 @@ var liens = [
   "http://manuel.ovh/letopweb/perrault.pdf",
   "http://manuel.ovh/letopweb/swift_voyages_gulliver.pdf",
   "http://www.cndp.fr/fileadmin/user_upload/CNDP/catalogues/perrault/files/contes_perrault.pdf",
-  "http://www.crdp-strasbourg.fr/je_lis_libre/livres/"
+  "http://www.crdp-strasbourg.fr/je_lis_libre/livres/",
+  "file:///C:/Users/Toshiba/Desktop/"
 ];
 var audio = [
   "Gorille-Diane",
